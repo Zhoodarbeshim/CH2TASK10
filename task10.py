@@ -1,0 +1,10 @@
+a = "earth"
+print(a[2])
+print(a[1:5])
+print(a[0:5])
+print(a[0:3])
+print(a[0], a[2], a[4])
+print(a[1], a[3])
+print(a[::-1])
+print(a[-1], a[-3], a[-5])
+print(len(a))
